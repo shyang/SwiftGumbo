@@ -1,1 +1,1 @@
-#include "../gumbo.h"
+#include "gumbo.h"
